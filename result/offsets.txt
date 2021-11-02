@@ -1,0 +1,9 @@
+dwClientState = 5804012 
+dwClientState_ViewAngles = 19856 
+model_ambient_min = 5816332 
+dwEntityList = 81524572 
+dwForceAttack = 52362452 
+dwForceJump = 52362452 
+dwGlowObjectManager = 87063624 
+dwLocalPlayer = 14308428 
+dwMouseEnable = 14331800
